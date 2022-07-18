@@ -9,7 +9,7 @@ TODO List are the lists that we generally use to maintain our day to day tasks o
 4.Delete tasks
 
 Here you can also maintain a todo list of your selected title also by just typing your prefered title after the link 
-For Example :- https://damp-bastion-28099.herokuapp.com/. <your title>
+For Example :- https://damp-bastion-28099.herokuapp.com/ "your tittle"
 
 Glimpse:-
 
